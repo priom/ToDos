@@ -25,7 +25,6 @@ class ItemsController < ApplicationController
   end
 
   def edit
-
   end
 
   def update
@@ -46,6 +45,7 @@ class ItemsController < ApplicationController
     @item.update_attribute(:completed_at, Time.now)
     redirect_to root_path
   end
+
 
   private
     def item_params
