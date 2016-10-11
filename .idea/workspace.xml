@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b96a08-eefd-404a-a9e4-ca9285ca861d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/items_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/items_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/items/index.html.erb" afterPath="$PROJECT_DIR$/app/views/items/index.html.erb" />
     </list>
     <ignored path="todos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,13 +46,13 @@
           <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/items/index.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+                <state relative-caret-position="-172">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <element signature="e#1077#1098#0#HTML" expanded="true" />
-                    <element signature="e#1201#1222#0#HTML" expanded="true" />
-                    <element signature="e#1313#1334#0#HTML" expanded="true" />
-                    <element signature="e#2129#2150#0#HTML" expanded="true" />
+                    <element signature="e#1076#1097#0#HTML" expanded="true" />
+                    <element signature="e#1200#1221#0#HTML" expanded="true" />
+                    <element signature="e#1312#1333#0#HTML" expanded="true" />
+                    <element signature="e#2128#2149#0#HTML" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -135,8 +134,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/items/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/items/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/items_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/items/index.html.erb" />
       </list>
     </option>
   </component>
@@ -519,12 +518,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476082908839</updated>
-      <workItem from="1476082911837" duration="12146000" />
+      <workItem from="1476082911837" duration="12163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12146000" />
+    <option name="totallyTimeSpent" value="12163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -770,24 +769,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/items/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#1077#1098#0#HTML" expanded="true" />
-            <element signature="e#1201#1222#0#HTML" expanded="true" />
-            <element signature="e#1313#1334#0#HTML" expanded="true" />
-            <element signature="e#2129#2150#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/items_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/items/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1076#1097#0#HTML" expanded="true" />
+            <element signature="e#1200#1221#0#HTML" expanded="true" />
+            <element signature="e#1312#1333#0#HTML" expanded="true" />
+            <element signature="e#2128#2149#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
