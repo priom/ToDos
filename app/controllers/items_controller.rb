@@ -3,7 +3,7 @@ class ItemsController < ApplicationController
 
   def index
     if user_signed_in?
-      @items = Item.where(:user_id => current_user.id).order("created_at DESC")
+      @items = Item.where(:user_id => current_user.id).order("completed_at ASC, created_at DESC")
     end
   end
 
